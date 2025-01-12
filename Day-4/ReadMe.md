@@ -1,6 +1,6 @@
 Topics Covered
 
--Lists
--Tuples
--Sets
--Dictionary
+Lists<br>
+Tuples<br>
+Sets<br>
+Dictionary<br>
