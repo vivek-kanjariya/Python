@@ -1,5 +1,5 @@
 Topics Covered
 
-# Weak Refrences
-# Cache
-# Refrences and Memory/Garbage Collection
+Weak Refrences<br>
+Cache<br>
+Refrences and Memory/Garbage Collection<br>
