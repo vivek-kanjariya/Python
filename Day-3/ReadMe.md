@@ -1,8 +1,8 @@
 Topics Covered
 
--Functions
--Types of Functions
--Decorators
--Closures
--Higher Order Functions
--Generative Functions
+Functions<br>
+Types of Functions<br>
+Decorators<br>
+Closures<br>
+Higher Order Functions<br>
+Generative Functions<br>
