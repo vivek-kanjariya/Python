@@ -1,8 +1,8 @@
 Topics Covered
 
--Lamdas
--map
--reduce
--Iterators
--Grouping
--Accumulators
+-Lamdas<br>
+-map<br>
+-reduce<br>
+-Iterators<br>
+-Grouping<br>
+-Accumulators<br>
