@@ -1,5 +1,5 @@
 Topics Covered
 
-# Profiling and Optimisation
-# Memory Profiling
-# Regular Expression (RE module)
+Profiling and Optimisation<br>
+Memory Profiling<br>
+Regular Expression (RE module)<br>
